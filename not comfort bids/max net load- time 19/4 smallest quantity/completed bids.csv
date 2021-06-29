@@ -1,0 +1,11 @@
+ID,type,cost,initial quantity,node,completely matched
+2,offer,50.9,0.03,3,True
+7,offer,52.2,0.19,8,True
+1,request,57.9,0.15,2,True
+9,request,55.2,0.07,10,True
+6,offer,40.5,0.23,7,True
+8,offer,54.3,0.02,9,True
+11,request,64.9,0.1,12,True
+4,offer,47.6,0.2,5,True
+12,offer,50.5,0.03,13,True
+5,request,60.6,0.15,6,True

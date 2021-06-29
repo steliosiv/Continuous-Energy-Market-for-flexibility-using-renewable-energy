@@ -1,0 +1,6 @@
+ID,type,cost,initial quantity,quantity,node,completely matched
+14,offer,45.4,0.16,0.07100000000000001,15,False
+13,offer,52.3,0.1,0.052000000000000005,14,False
+5,request,60.6,0.15,0.03199999999999999,6,False
+9,request,55.2,0.07,0.006000000000000005,10,False
+3,offer,42.2,0.3,0.175,4,False
