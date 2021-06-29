@@ -1,0 +1,12 @@
+Selected ID,type,cost,initial quantity,quantity,node,completely matched,Matched ID,type,cost,initial quantity,quantity,ACTUAL QUANTITY TRANSFERRED,node,completely matched,social welfare
+12,request,57.7,0.25,0,13,TRUE,14,offer,53.6,0.25,0,0.25,15,TRUE,1.025
+10,offer,41.5,0.76,0.76,11,FALSE,2,request,63.6,0.47,0,0.47,3,TRUE,10.387
+6,request,52.8,0.96,0.96,7,FALSE,10,offer,41.5,0.76,5.55E-17,0.29,11,TRUE,3.277
+7,request,51.8,1.19,1.19,8,FALSE,5,offer,46.8,0.33,0,0.33,6,TRUE,1.65
+1,offer,43.9,0.24,0,2,TRUE,6,request,52.8,0.96,0.67,0.24,7,FALSE,2.136
+13,request,51.4,0.25,0,14,TRUE,3,offer,48.7,0.33,0.33,0.25,4,FALSE,0.675
+4,request,50.1,0.49,0.49,5,FALSE,3,offer,48.7,0.33,1.39E-17,0.08,4,TRUE,0.112
+8,offer,47.1,0.11,0,9,TRUE,6,request,52.8,0.96,0.43,0.11,7,FALSE,0.627
+11,offer,49.6,0.12,0,12,TRUE,6,request,52.8,0.96,0.32,0.12,7,FALSE,0.384
+9,offer,50.2,0.05,0,10,TRUE,6,request,52.8,0.96,0.2,0.05,7,FALSE,0.13
+,,,,,,,,,,,TOTOAL ENERGY,2.19,,SOCIAL WELFARE,20.403
