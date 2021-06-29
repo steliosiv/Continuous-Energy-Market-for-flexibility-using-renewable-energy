@@ -1,0 +1,14 @@
+ID,type,cost,initial quantity,quantity,node,completely matched
+14,offer,45.4,0.16,0.07100000000000001,15,False
+F3,offer,44.7,0.39,0.265,4,False
+F12,request,47.5,0.13,0.0050000000000000044,13,False
+F8,offer,57.1,0.18,0.03,9,False
+F14,offer,49.5,0.27,0.27,15,False
+F10,offer,61.6,0.41,0.30999999999999994,11,False
+F7,offer,56.1,0.68,0.6000000000000001,8,False
+F4,offer,49.7,0.26,0.19,5,False
+12,offer,50.5,0.03,0.019999999999999997,13,False
+3,offer,42.2,0.3,0.3,4,False
+F2,request,46.1,0.26,0.025000000000000022,3,False
+F11,offer,68.4,0.1,0.1,12,False
+13,offer,52.3,0.1,0.094,14,False

@@ -1,0 +1,3 @@
+ID,type,cost,initial quantity,node,completely matched
+11,request,61.4,0.01,12,True
+7,request,56.2,0.02,8,True

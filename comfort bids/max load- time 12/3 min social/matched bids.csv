@@ -1,0 +1,6 @@
+Selected ID,type,cost,initial quantity,quantity,node,completely matched,Matched ID,type,cost,initial quantity,quantity,ACTUAL QUANTITY TRANSFERRED,node,completely matched,social welfare
+F7,offer,60.7,0.9,0.9,8,FALSE,11,request,61.4,0.01,0,0.01,12,TRUE,0.007
+F4,request,61.1,0.36,0.36,5,FALSE,F7,offer,60.7,0.9,0.89,0.156,8,FALSE,0.0624
+F8,offer,55.6,0.16,0.16,9,FALSE,7,request,56.2,0.02,0,0.02,8,TRUE,0.012
+F2,request,59.6,0.32,0.32,3,FALSE,F8,offer,55.6,0.16,0.14,0.08,9,FALSE,0.32
+,,,,,,,,,,,,0.266,,,0.4014

@@ -1,0 +1,20 @@
+Selected ID,type,cost,initial quantity,quantity,node,completely matched,Matched ID,type,cost,initial quantity,quantity,ACTUAL QUANTITY TRANSFERRED,node,completely matched,social welfare
+10,request,56.9,0.53,0.53,11,FALSE,2,offer,50.9,0.03,0,0.03,3,TRUE,0.18
+14,offer,45.4,0.16,0.16,15,FALSE,10,request,56.9,0.53,0.5,0.089,11,FALSE,1.0235
+7,offer,52.2,0.19,0,8,TRUE,F1,request,55.8,0.2,0.2,0.19,2,FALSE,0.684
+6,offer,40.5,0.23,0,7,TRUE,10,request,56.9,0.53,0.411,0.23,11,FALSE,3.772
+F3,offer,44.7,0.39,0.39,4,FALSE,F12,request,47.5,0.13,0.13,0.125,13,FALSE,0.35
+F8,offer,57.1,0.18,0.18,9,FALSE,1,request,57.9,0.15,0,0.15,2,TRUE,0.12
+11,request,64.9,0.1,0,12,TRUE,F10,offer,61.6,0.41,0.41,0.1,11,FALSE,0.33
+8,offer,54.3,0.02,0,9,TRUE,10,request,56.9,0.53,0.181,0.02,11,FALSE,0.052
+4,offer,47.6,0.2,0.2,5,FALSE,10,request,56.9,0.53,0.161,0.155,11,FALSE,1.4415
+5,request,60.6,0.15,0.15,6,FALSE,F9,offer,59.1,0.07,0,0.07,10,TRUE,0.105
+F7,offer,56.1,0.68,0.68,8,FALSE,5,request,60.6,0.15,-1.39E-17,0.08,6,TRUE,0.36
+F13,request,49.1,0.16,0.16,14,FALSE,4,offer,47.6,0.2,1.39E-17,0.045,5,TRUE,0.0675
+F6,offer,42.7,0.59,0.59,7,FALSE,F13,request,49.1,0.16,0,0.115,14,TRUE,0.736
+F4,offer,49.7,0.26,0.26,5,FALSE,9,request,55.2,0.07,0,0.07,10,TRUE,0.385
+F5,request,56,0.24,0,6,TRUE,F6,offer,42.7,0.59,0.475,0.24,7,FALSE,3.192
+12,offer,50.5,0.03,0.03,13,FALSE,F1,request,55.8,0.2,8.67E-18,0.01,2,TRUE,0.053
+F2,request,46.1,0.26,0.26,3,FALSE,F6,offer,42.7,0.59,0,0.235,7,TRUE,0.799
+13,offer,52.3,0.1,0.1,14,FALSE,10,request,56.9,0.53,3.30E-17,0.006,11,TRUE,0.0276
+,,,,,,,,,,,,1.96,,,13.6781
