@@ -20,19 +20,20 @@ The bids of the market are created using the normal distribution and the data of
 bids.csv: contains all the bids that are about to be entered in the market
 The file PTDF.csv contains all the PTDF of the network
 
-The results of each run are ectracted in csv files:
-completed bids.csv: contains all the information regarding the completed bids of the market
-data.csv: contains all the information regarding the network after the market has run
-matched bids.csv: contains all the information about the pair of bids that were matched
-order book: contains the information about the remaining bids that couldn't be matched
-PTDF_count: contains the number of times the PTDF function was called for each bid
-set points: contains the final power value of each node after the market has run
+The results of each run are exctracted in csv files:
+* completed bids.csv: contains all the information regarding the completed bids of the market
+* data.csv: contains all the information regarding the network after the market has run
+* matched bids.csv: contains all the information about the pair of bids that were matched
+* order book: contains the information about the remaining bids that couldn't be matched
+* PTDF_count: contains the number of times the PTDF function was called for each bid
+* set points: contains the final power value of each node after the market has run
 
 I included four types of methods in order to select a bid of those who satissfy the market rules and network constraints, those types are:
-highest social welfare: returns the bid that has the biggest difference in price
-lowest social welfare: returns the bid that has the smallest difference in price
-highest quantity: returns the bid with the highest quantity
-lowest quantity: returns the bid with the lowest quantity
+* highest social welfare: returns the bid that has the biggest difference in price
+* lowest social welfare: returns the bid that has the smallest difference in price
+* highest quantity: returns the bid with the highest quantity
+* lowest quantity: returns the bid with the lowest quantity
+
 ## Power data.xlsx
 We ran the market for 6 different hours in a day. Those 6 different hours represent states at which the network may face challenges, To find these 6 hours we calcualted the load, production and net load of each hour based on real time data of consumption and renewable energy production. 
 
