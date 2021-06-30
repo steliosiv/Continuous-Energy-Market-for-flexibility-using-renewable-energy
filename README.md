@@ -3,7 +3,7 @@ This project was made in python and was created for my thesis in my final year a
 
 ## Code
 
-The inspiration for the code was the article (Prat, Eléa & Herre, Lars & Kazempour, Jalal & Chatzivasileiadis, Spyros. (2020). “Design of a Continuous Local Flexibility Market with Network Constraints.”) whose code can be found here: https://github.com/eleaprat/LFM--Online-Appendix
+The inspiration for the code was the article (Prat, Eléa & Herre, Lars & Kazempour, Jalal & Chatzivasileiadis, Spyros. (2020). “Design of a Continuous Local Flexibility Market with Network Constraints.”) whose code can be found [here](https://github.com/eleaprat/LFM--Online-Appendix).
 
 The files case.py and PTDF.py have been slightly changed  in order for our code to work. The main code was built entirely from the scratch in my own unique way. The main code which is responsible for running the market is in the file Stelios_main.py. The file functions.py contains all the functions that are used in the main program and the file classes.py contains the two types of classes that are used.
 
