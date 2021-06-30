@@ -38,12 +38,12 @@ We ran the market for 6 different hours in a day. Those 6 different hours repres
 
 The six hours that are tested are:
 
-3: min load
-4: min net load
-12: max load
-13: max production
-19: max net load
-21: min production
+* 3: min load
+* 4: min net load
+* 12: max load
+* 13: max production
+* 19: max net load
+* 21: min production
 
 Also, in this file are the calculations for the power at each node
 
